@@ -23,6 +23,7 @@ Analyze sales performance, profitability, and business efficiency using the Cont
 - Some locations show high volume but low efficiency
 
 ## 📁 Project Structure
+- `/queries` → SQL scripts used for analysis
 - SQL queries organized by analysis type
 - Focus on business-driven insights
 
